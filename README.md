@@ -23,28 +23,40 @@ Follow these instructions to set up the InSeQ Classroom project on your local ma
 
 1. Clone the repository:
 
-```git clone https://github.com/yourusername/inseq-classroom.git```
+```bash
+git clone https://github.com/yourusername/inseq-classroom.git
+```
 
 2. Navigate to the project directory:
 
-```cd inseq-classroom```
+```bash
+cd inseq-classroom
+```
 
 3. Install the dependencies:
 
 
-```npm install```
+```bash
+npm install
+```
 
 or
 
-```yarn install```
+```bash
+yarn install
+```
 
 4. Start the development server:
 
-```npm start```
+```bash
+npm start
+```
 
 or
 
-```yarn start```
+```bash
+yarn start
+```
 
 5. Open your browser and navigate to http://localhost:3000 to view the application.
 
